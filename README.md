@@ -1,4 +1,5 @@
 [![CircleCI](https://circleci.com/gh/swilcox/bad-temp-send-cli/tree/master.svg?style=svg)](https://circleci.com/gh/swilcox/bad-temp-send-cli/tree/master)
+[![codecov](https://codecov.io/gh/swilcox/bad-temp-send-cli/branch/master/graph/badge.svg)](https://codecov.io/gh/swilcox/bad-temp-send-cli)
 
 # bad-temp-send-cli
 1-wire temperature sensor to badash for the Raspberry Pi
